@@ -12,6 +12,8 @@ this is the bug look:
 
 [![CfRvQ0.md.jpg](https://s1.ax1x.com/2018/05/26/CfRvQ0.md.jpg)](https://imgchr.com/i/CfRvQ0)
 
+eth picture is from ..., i forgot. Please commit a issue if you know where the picture from, thank you
+
 So, lets bigin the game
 
 # 0x01
